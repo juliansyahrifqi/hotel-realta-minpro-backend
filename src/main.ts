@@ -7,10 +7,7 @@ async function bootstrap() {
 }
 bootstrap();
 
-//commentaskdjesjfknd
-
-///dsjbjdsfbjfkesuhfksebekfgit 
-
-
-// halo tama
-//comment
+<<<<<<<<< Temporary merge branch 1
+=========
+//asdfasudkuhsajvgdsavhdsjak
+>>>>>>>>> Temporary merge branch 2

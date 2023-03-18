@@ -7,7 +7,6 @@ async function bootstrap() {
 }
 bootstrap();
 
-<<<<<<<<< Temporary merge branch 1
-=========
 //asdfasudkuhsajvgdsavhdsjak
->>>>>>>>> Temporary merge branch 2
+
+//pesan 2

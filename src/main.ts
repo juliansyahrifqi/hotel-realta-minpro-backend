@@ -7,10 +7,3 @@ async function bootstrap() {
 }
 bootstrap();
 
-//commentaskdjesjfknd
-
-///dsjbjdsfbjfkesuhfksebekfgit 
-
-
-// halo tama
-//comment
